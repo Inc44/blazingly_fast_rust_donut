@@ -1,5 +1,7 @@
 # Blazingly Fast Rust Donut
 
+![Donut](donut.png)
+
 This Rust program generates a rotating donut in the terminal using ASCII art. The main mechanism involves mathematical transformations and buffer manipulations to create the illusion of a 3D object in motion.
 
 ## Running the Program
