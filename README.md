@@ -6,7 +6,7 @@ This Rust program generates a rotating donut in the terminal using ASCII art. Th
 
 1. **Install Rust:** Ensure you have Rust installed on your system. If not, you can download it from [the official Rust website](https://www.rust-lang.org/tools/install).
 2. **Clone the Repository:** Clone this repository to your local machine.
-3. **Compile and Run:** Navigate to the project directory in your terminal and run the command `cargo run` to compile and execute the program.
+3. **Compile and Run:** Navigate to the project directory in your terminal and run the command `cargo run --release` to compile and execute the program.
 
 ## Notes
 
