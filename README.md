@@ -12,3 +12,7 @@ This Rust program generates a rotating donut in the terminal using ASCII art. Th
 
 - The rendering loop is set to run indefinitely. You can terminate the program by pressing `Ctrl+C` in the terminal.
 - The program's performance may vary based on the terminal's capabilities and the system's hardware specifications.
+
+## License
+
+MIT
