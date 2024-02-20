@@ -8,6 +8,7 @@ This Rust program generates a rotating donut in the terminal using ASCII art. Th
 
 - **Install Rust:** Ensure you have Rust installed on your system. If not, you can download it from [the official Rust website](https://www.rust-lang.org/tools/install).
 - **Install crate:** `cargo install blazingly_fast_rust_donut`
+- **Run:** `blazingly_fast_rust_donut`
 
 ## Notes
 
