@@ -2,6 +2,4 @@
 name = "blazingly_fast_rust_donut"
 version = "1.0.0"
 edition = "2021"
-
-[package]
 description = "Generates a rotating donut in the terminal using ASCII art"
