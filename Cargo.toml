@@ -3,6 +3,5 @@ name = "blazingly_fast_rust_donut"
 version = "1.0.0"
 edition = "2021"
 
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
-
-[dependencies]
+[package]
+description = "Generates a rotating donut in the terminal using ASCII art"
